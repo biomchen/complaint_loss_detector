@@ -2,7 +2,7 @@
 
 # Complaint Loss Detector (CLD)
 
-under construction ...
+Still under construction ...
 
 An [application](https://github.com/biomchen/complaint_loss_detector) finding the money loss black hole using customer complaints
 
