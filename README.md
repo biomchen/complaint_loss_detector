@@ -2,7 +2,7 @@
 
 # Complaint Loss Detector (CLD)
 
-An [application](https://github.com/biomchen/complaint-loss-detector) finding the money loss blackhoe using customer complaints
+An [application](https://github.com/biomchen/complaint_loss_detector) finding the money loss blackhoe using customer complaints
 
 ## **Problem**
 
