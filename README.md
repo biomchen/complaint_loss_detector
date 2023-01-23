@@ -16,7 +16,7 @@ In addition, as more and more products the financial institutions serve, the var
 
 ![](https://www.consumerfinance.gov/static/img/logo_237x50.c7c2ba6c929f.png)
 
-CFPB provides a glimpse of [consumers' complaints](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data) against financial institutions, it contains around 3.1M complaints from a variety of the institutions and many of them has been resulted in monetary loss from in intitutions.
+CFPB provides a glimpse of [consumers' complaints](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data) against a variety of financial institutions. Its database contains around 3.1M complaints, and many of those have caused monetary loss of the institutions.
 
 The complaints includes:
 * 1.42M complaints were filed against three major credit reporting agencies
