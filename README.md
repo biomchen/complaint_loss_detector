@@ -2,11 +2,11 @@
 
 # Complaint Loss Detector (CLD)
 
-An [application](https://github.com/biomchen/complaint_loss_detector) finding the money loss blackhoe using customer complaints
+An [application](https://github.com/biomchen/complaint_loss_detector) finding the money loss black hole using customer complaints
 
 ## **Problem**
 
-Each year, financial institutions have lost millions of dollars due to their customers' complaints. Many complaints are lengthy texts and hard to identify key reasons for filing complaints against those institutions in addition to its large quanity. It is impossible for a financial institutions to conduct thorough analyses and summerization of those complaints just by its customer service team and response the complaints in a timely fashion.
+Each year, financial institutions have lost millions of dollars due to their customers' complaints. Many complaints are lengthy texts and hard to identify key reasons for filing complaints against those institutions in addition to its large quantity. It is impossible for a financial institutions to conduct thorough analyses and summarization of those complaints just by its customer service team and response the complaints in a timely fashion.
 
 In addition, as more and more products the financial institutions serve, the variety of the complaints becomes even more difficult for identifying the key reasons of customer complaints. As results, the customer service team might miss some of the key reasons for customers' complaints and opportunities to address the complaints with appropriate customer service experts in a correct way, which leads to monetary loss to the complaints.
 
@@ -18,10 +18,10 @@ In addition, as more and more products the financial institutions serve, the var
 
 CFPB provides a glimpse of [consumers' complaints](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data) against financial institutions, it contains around 3.1M complaints from a variety of the institutions and many of them has been resulted in monetary loss from in intitutions.
 
-The complaints incldues:
+The complaints includes:
 * 1.42M complaints were filed against three major credit reporting agencies
     * Only tiny number of them (< 0.1%) were result of monetary loss
-* 670K complaints have consumers' complaint narratives against the other finanical institutions.
+* 670K complaints have consumers' complaint narratives against the other financial institutions.
 
 ## **Solutions**
 Transform the problem into a unsupervised and supervised ML problem:   
@@ -54,6 +54,6 @@ Transform the problem into a unsupervised and supervised ML problem:
 ## **Deployment**  
 Click the [link](https://bit.ly/mld_dashboard) for the first iteration of the demo as shown below. You can use the `test.csv` file to play with it.  
    
-**CAUTION**: the cheap AWS EC2 is not powerful enough utilize the 520MB model file, please be patient.   
+**CAUTION**: the cheap AWS EC2 is not powerful enough to utilize the 520MB model file, please be patient.   
 
   <img src="image_02.png" width=500>
