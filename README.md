@@ -56,5 +56,5 @@ Transform the problem into a unsupervised and supervised ML problem:
 You can use uwsgi to deploy with the following cmd:  
 `uwsgi --http-socket 0.0.0.0:3000 --wsgi-file main.py --master --processes 1 --threads 2`  
 
-See the picture below for the demo at AWS.  
+Click the [link](https://bit.ly/mld_dashboard) for the demo as shown below.
 <img src="image_02.png" width=500>
