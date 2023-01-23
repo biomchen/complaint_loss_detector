@@ -52,8 +52,8 @@ Transform the problem into a unsupervised and supervised ML problem:
     * AWS EC2
 
 ## **Deployment**  
-Click the [link](https://bit.ly/mld_dashboard) for the demo as shown below.   
-You can use the `test.csv` file to play with it.  
-<font color='yellow'>CAUTION<font>: the cheap AWS EC2 is not powerful enough utilize the 520MB model file, please be patient.   
+Click the [link](https://bit.ly/mld_dashboard) for the demo as shown below. You can use the `test.csv` file to play with it.  
+   
+**CAUTION**: the cheap AWS EC2 is not powerful enough utilize the 520MB model file, please be patient.   
 
   <img src="image_02.png" width=500>
